@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Dataset/output folder and its contents
+# Dataset/output folder and its contents
+dataset/*
+!dataset/dataset.md
+output/
+logs/
+
+output/
+
 # C extensions
 *.so
 
